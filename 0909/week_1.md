@@ -1,0 +1,1 @@
+I <b>expect</b> you to complete `python_numpy.ipynb` before our class meeting on the 9th. I <b> encourage</b> you to give the second notebook your best shot, but we will go over the material in class. 

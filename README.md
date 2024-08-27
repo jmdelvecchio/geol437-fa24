@@ -36,7 +36,7 @@ This schedule is <b>highly</b> subject to change based on class interest - I pic
 | Date   |      Topic      |  Pre-assignment |
 |:----------:|:-------------:|:------:|
 | 9/02/2024 |  No class - Labor Day|Account registration|
-| 9/09/2024 |Python, `numpy`, and `matplotlib` basics||
+| 9/09/2024 |Python, `numpy`, and `matplotlib` basics|[Week 1 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0909)|
 | 9/16/2024 |`pandas`, your Excel alternative||
 | 9/23/2024* |`pandas` and plotting practice||
 | 9/30/2024 |Conditionals and iterating||
