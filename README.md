@@ -35,8 +35,8 @@ This schedule is <b>highly</b> subject to change based on class interest - I pic
 
 | Date   |      Topic      |  Pre-assignment |
 |:----------:|:-------------:|:------:|
-| 9/02/2024 |  No class - Labor Day|Account registration|
-| 9/09/2024 |Python, `numpy`, and `matplotlib` basics|[Week 1 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0909)|
+| 9/02/2024 |  No class - Labor Day|[Account registration](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0902)|
+| 9/09/2024 |Python, `numpy`, and `matplotlib` basics|[Week 2 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0909)|
 | 9/16/2024 |`pandas`, your Excel alternative||
 | 9/23/2024* |`pandas` and plotting practice||
 | 9/30/2024 |Conditionals and iterating||
@@ -51,6 +51,8 @@ This schedule is <b>highly</b> subject to change based on class interest - I pic
 | 12/02/2024 |Project lightning talks||
 
 (*)Denotes dates where Joanmarie will be out of town - you are encouraged to gather as a class and work through assignments
+
+Each week will have a corresponding folder in the GitHub repo - this will be where your assignments and instructions will live (each week will have its own `README.md`)
 
 # Honor code etc
 The university prides itself on creating the nation’s first Honor Code. The Code provides an environment in which trust can thrive and a level playing field for students, ensuring students are evaluated based on their own effort and ability and in which students can be taken at their word. The Code reflects the university’s value of integrity—in our words and our deeds. As an instructor, I strive to provide an environment that promotes integrity. Reasonable measures taken to protect us from temptation are not antithetical to the Honor Code; thus, I reserve the option to proctor exams, provide multiple copies of exams for distribution, and restrict the technology tools students can possess while taking exams. I support the Honor Code and am obligated to report concerns for review and resolution by the Honor Council. As it is your obligation to resolve any perceived lack of understanding of my expectations in advance of submitting any work, I encourage you to contact me with any questions about my course and testing policies. You also are welcome to contact me if you have concerns that any fellow students are not fulfilling their obligation to uphold the Honor Code. All work submitted in this course, whether in draft or final form, must be your own and must be cited appropriately.
