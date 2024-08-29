@@ -4,7 +4,7 @@
 *(Time: approx 15 minutes)*
 - [ ]  log in to W&M’s JupyterHub [https://jupyterhub.wm.edu/](https://jupyterhub.wm.edu/). Click “Start My Server”, and choose Default Notebook.
 - [ ]  Under “Other” navigate to “Terminal.”
-- [ ]  Clone the repo using `git clone https://github.com/jmdelvecchio/geol437-fa24.git`
+- [ ]  [Clone](https://swcarpentry.github.io/git-novice/08-collab.html) the repo using `git clone https://github.com/jmdelvecchio/geol437-fa24.git`
 - [ ]  Navigate to the newly downloaded `geol437-fa24`directory
 
 ## Execute the two notebooks in the `0909` directory
