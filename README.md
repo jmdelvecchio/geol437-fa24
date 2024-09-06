@@ -11,7 +11,7 @@
 # Class format
 
 To take advantage of hands-on coding with peers and a mentor, this class will be run largely as a <i>flipped classroom</i>. Instructional material will be made available ahead of time in the form of tutorial Jupyter Notebooks and/or recorded lectures with screen captures. You will be expected to come to class having completed any pre-meeting assignments, which will review or teach new skills to be implemented or improved upon during the class meeting. 
-At Wiliam and Mary, each credit hour of face-to-face instruction [requires a student work two hours out of class student work](https://www.wm.edu/offices/ce/policies/academic-affairs-student-life/academic-credit-hour.php). This means that for this two credit-hour class, you should be spending <b>four hours</b> a week on pre-meeting activities and wrapping up in-class assignments. 
+At William and Mary, each credit hour of face-to-face instruction [requires a student work two hours out of class student work](https://www.wm.edu/offices/ce/policies/academic-affairs-student-life/academic-credit-hour.php). This means that for this two credit-hour class, you should be spending <b>four hours</b> a week on pre-meeting activities and wrapping up in-class assignments. 
 
 # Learning objectives
 
@@ -37,7 +37,7 @@ This schedule is <b>highly</b> subject to change based on class interest - I pic
 |:----------:|:-------------:|:------:|
 | 9/02/2024 |  No class - Labor Day|[Account registration](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0902)|
 | 9/09/2024 |Python, `numpy`, and `matplotlib` basics|[Week 2 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0909)|
-| 9/16/2024 |`pandas`, your Excel alternative||
+| 9/16/2024 |`pandas`, your Excel alternative|[Week 3 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0916)|
 | 9/23/2024* |`pandas` and plotting practice||
 | 9/30/2024 |Conditionals and iterating||
 | 10/07/2024 |Geospatial data - vector and raster data||
