@@ -1,0 +1,186 @@
+﻿Source,Site Location[a],Latitude (deg),Longitude (deg),D (cm2/yr),D[b] uncertainty (cm2/yr),AI,MAP (cm/yr),Underlying lithology description,Lithology category[c],Technique description,Technique category[d],Vegetation description,Vegetation category[e]
+Almond et al. [2008] ,"Charwell Basin, New Zealand",-42.45,173.357,50,20,1.42,116,Loess underlain by fluvial gravel terraces ,1,Erosion rate and curvature. Estimate is for the Holocene. Similar technique to Roering et al. (2002). ,2,"Podocarp, hardwood, and beech forest",3
+Almond et al. [2008] ,"Ahuriri, New Zealand",-43.702,172.584,70,20,0.76,68.8,Thick loess deposits underlain by altered basalt,1,137Cs fallout nuclides (50 yr timescale) and curvature. Similar technique to Roering et al. (2002).  ,2,Recolonization of forest during Holocene. Recently introduced pasture grasses. ,2
+Arrowsmith et al. (1998),"Carrizo Plain, CA, USA",35.271,-119.827,86,8,0.33,46.7,Conglomerate and alluvial fan units.,2,Scarp modeling,1,Grasses and shrubs,2
+Avouac and Peltzer (1993),"Hotan Region, Xinjiang, China",36.8,80.5,33,14,0.03,3.3,Loose fan gravels,1,Scarp modeling,1,Unvegetated,1
+Avouac et al. (1993),"Tien Shan, China",44.048,86.79,55,25,0.19,18.4,Loose fan gravels,1,Scarp modeling,1,Grasses and shrubs,2
+Ben-Asher et al. (2017),"Odem cinder cone, Golan Heights, Israel",33.197,35.755,12,--,0.71,79.1,Cinder,1,Assumed initial shape and age in conjunction with a numerical model,1,scrubland,2
+Ben-Asher et al. (2017),"Baron cinder cone, Golan Heights, Israel",33.158,35.779,32,--,0.64,73,Cinder,1,Assumed initial shape and age in conjunction with a numerical model,3,scrubland,2
+Ben-Asher et al. (2017),"Bental cinder cone, Golan Heights, Israel",33.13,35.783,56,--,0.64,72.8,Cinder,1,Assumed initial shape and age in conjunction with a numerical model,3,scrubland,2
+Ben-Asher et al. (2017),"Shifon cinder cone, Golan Heights, Israel",33.069,35.771,54,--,0.57,66.1,Cinder,1,Assumed initial shape and age in conjunction with a numerical model,3,scrubland,2
+Ben-Asher et al. (2017),"Fares cinder cones, Golan Heights, Israel",32.96,35.865,63,--,0.44,53.9,Cinder,1,Assumed initial shape and age in conjunction with a numerical model,3,scrubland,2
+Begin (1992),"Northern Negev, Israel",31.262,34.802,4,3,0.16,23.3,Fluvial gravel terraces,1,Scarp modeling,3,Unvegetated,1
+Bowman and Gerson (1986),"Lake Lisan, Dead Sea, Israel",31.386,35.361,4,--,0.07,10.9,Gravel ,1,Scarp modeling,1,Unvegetated,1
+Bowman and Gross (1989) as reported in Hanks (2000),"Northern Arava, Israel",30.658,35.24,4,--,0.04,6,Gravel ,1,Scarp modeling,1,Unvegetated,1
+Callaghan (2012),Chile,-32.99,-71.42,55,24,0.41,48.2,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-32.98,-71.42,70,36,0.43,51.8,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-32.98,-71.42,41,20,0.43,51.8,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-32.94,-71.43,46,20,0.34,39.7,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-33.01,-71.44,58,27,0.45,53.1,Granitic,3,Relief and erosion rate,5,Herbaceous with few trees,2
+Callaghan (2012),Chile,-31.12,-71.58,46,7,0.14,16.7,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-31.12,-71.56,44,13,0.15,16.7,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-31.12,-71.55,49,13,0.16,18.3,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with few trees with some bare ground,2
+Callaghan (2012),Chile,-30.55,-71.63,158,68,0.13,13.8,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-30.55,-71.63,212,92,0.13,13.8,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with few trees and some bare ground,2
+Callaghan (2012),Chile,-29.62,-71.2,38,13,0.07,7.6,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with few trees and some bare ground,2
+Callaghan (2012),Chile,-29.62,-71.2,38,11,0.07,7.6,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with few trees and some bare ground,2
+Callaghan (2012),Chile,-29.62,-71.2,35,12,0.07,7.6,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with few trees and some bare ground,2
+Callaghan (2012),Chile,-29.58,-71.14,20,7,0.06,7.3,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with few trees and some bare ground,2
+Callaghan (2012),Chile,-29.57,-71.16,19,7,0.06,7.4,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with few trees and some bare ground,2
+Callaghan (2012),Chile,-29.22,-71.18,27,9,0.06,6.5,Granitic,3,Relief and erosion rate,5,Mixture of herbaceous groundcover and bare ground,2
+Callaghan (2012),Chile,-29.23,-71.18,14,5,0.05,6.5,Granitic,3,Relief and erosion rate,5,Mixture of herbaceous groundcover and bare ground,2
+Callaghan (2012),Chile,-28.41,-71.05,16,7,0.04,4.7,Granitic,3,Relief and erosion rate,5,Mostly bare ground with some herbaceous ground cover,1
+Callaghan (2012),Chile,-28.4,-71.06,11,5,0.03,4.5,Granitic,3,Relief and erosion rate,5,Bare ground,1
+Callaghan (2012),Chile,-28.39,-71.07,15,7,0.03,4.3,Granitic,3,Relief and erosion rate,5,Bare ground,1
+Callaghan (2012),Chile,-28.36,-71.05,18,9,0.03,4,Granitic,3,Relief and erosion rate,5,Bare ground,1
+Callaghan (2012),Chile,-26.57,-70.44,2,1,0.02,2,Granitic,3,Relief and erosion rate,5,Bare ground,1
+Callaghan (2012),Chile,-26.56,-70.48,3,1,0.02,2.3,Granitic,3,Relief and erosion rate,5,Bare ground,1
+Callaghan (2012),Chile,-26.56,-70.51,4,2,0.02,2.3,Granitic,3,Relief and erosion rate,5,Bare ground,1
+Callaghan (2012),Chile,-26.59,-70.49,4,2,0.02,2.3,Granitic,3,Relief and erosion rate,5,Bare ground,1
+Callaghan (2012),Chile,-26.57,-70.56,9,4,0.02,2.4,Granitic,3,Relief and erosion rate,5,Bare ground,1
+Callaghan (2012),Chile,-40.58,-73.69,58,17,2.23,184,Granitic,3,Relief and erosion rate,5,Forested,5
+Callaghan (2012),Chile,-40.58,-73.6,61,20,2.13,178,Granitic,3,Relief and erosion rate,5,Forested,5
+Callaghan (2012),Chile,-37.9,-73.28,40,14,1.52,169,Granitic,3,Relief and erosion rate,5,Forested,5
+Callaghan (2012),Chile,-36.97,-73.12,93,45,1.13,123,Granitic,3,Relief and erosion rate,5,Forested,5
+Callaghan (2012),Chile,-36.97,-73.12,142,65,1.13,123,Granitic,3,Relief and erosion rate,5,Forested,5
+Callaghan (2012),Chile,-35.84,-72.51,66,23,0.8,90.7,Granitic,3,Relief and erosion rate,5,Forested,4
+Callaghan (2012),Chile,-35.86,-72.48,116,42,0.76,85.3,Granitic,3,Relief and erosion rate,5,Forested,4
+Callaghan (2012),Chile,-34.61,-71.58,19,12,0.6,75.5,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with few trees,2
+Callaghan (2012),Chile,-33.88,-71.5,65,29,0.33,42.3,Granitic,3,Relief and erosion rate,5,Herbaceous,2
+Callaghan (2012),Chile,-33.9,-71.49,32,14,0.34,45.2,Granitic,3,Relief and erosion rate,5,Herbaceous,2
+Callaghan (2012),Chile,-32.94,-71.42,53,23,0.34,39.6,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-32.27,-71.41,75,31,0.24,30.1,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-32.27,-71.4,73,38,0.23,30,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-32.08,-71.42,58,28,0.2,25.9,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-31.56,-71.42,61,16,0.15,18.8,Granitic,3,Relief and erosion rate,5,Mostly herbaceous,2
+Callaghan (2012),Chile,-31.52,-71.42,16,4,0.17,20.8,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-30.52,-71.66,71,29,0.12,12.6,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-30.53,-71.66,74,30,0.12,13,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with few trees,2
+Callaghan (2012),Chile,-30.55,-71.62,84,37,0.13,14,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with some trees,3
+Callaghan (2012),Chile,-30.57,-71.63,200,88,0.13,14,Granitic,3,Relief and erosion rate,5,Mostly herbaceous with few trees,2
+Callaghan (2012),Chile,-29.65,-71.11,23,8,0.07,7.5,Granitic,3,Relief and erosion rate,5,Mostly bare ground,1
+Callaghan (2012),Chile,-29.67,-71.16,19,7,0.07,7.7,Granitic,3,Relief and erosion rate,5,Mixture of herbaceous groundcover and bare ground,2
+Carretier et al. (2002),"Gurvan Bugd fault system, Mongolia",44.84,100.303,33,17,0.18,13.9,Gravel ,1,Scarp modeling,1,Unvegetated,1
+Colman and Watson (1983),"Lane Bonneville, UT, USA",39.625,-113.211,9,--,0.16,19.9,Gravel ,1,Scarp modeling,1,Grasses and shrubs,2
+Enzel et al. (1996),"Southern Arava Valley, Israel",29.612,34.983,3,--,0.02,3.1,Sandy gravel,1,Scarp modeling,1,Unvegetated,1
+Hanks (2000),"Lost River, ID, USA",44.166,-113.87,10,--,0.31,28.3,Alluvial gravel,1,Scarp modeling,1, Sagebrush and grasses,2
+Hanks and Wallace (1985),"Lake Lahonta, NV, USA",40.152,-117.925,11,--,0.14,18.8,Alluvial deposits,1,Scarp modeling,1,Some vegetation ,2
+Hanks et al. (1984),"Lake Bonneville, UT, USA",39.613,-112.299,11,--,0.24,29.5,Gravels,1,Scarp modeling,1,Grasses and shrubs,2
+Hanks et al. (1984),"Santa Cruz sea cliffs, CA, USA",36.984,-122.127,110,--,0.72,79.8,Mudstone,2,Scarp modeling,1,"The lower terraces are farmed while the upper terraces are covered with grasslands. The lower terraces have never been forested (Rosenbloom & Anderson, 1994).",2
+Hanks et al. (1984),"Raymond Fault Scarp, LA, CA, USA",34.119,-118.131,160,--,0.33,46.2,Coarse alluvial deposits,1,Scarp modeling,1,Grasses and some trees,3
+Hanks et al. (1984),"Drum Mtnts., UT, USA",39.65,-112.136,11,--,0.26,32.6,Alluvial gravels,1,Scarp modeling,1,Low shrubs such as sagebrush and shadscale,2
+Heimsath et al. (2000),"Nunnock River, SE Australia",-36.605,149.493,40,--,0.74,86.9, Granodiorite,3,Laplacian of whole slope and erosion rate,2,Schlerophyll forest,3
+Heimsath et al. (2005),"Nunnock River, SE Australia",-36.605,149.493,28,--,0.74,86.9,Granodiorite,3,Sediment flux from depth-integrated soil production rates and depth*gradient product,4,Schlerophyll forest,3
+Hughes et al. (2009),"Charwell Basin, New Zealand",-42.45,173.357,88,--,1.42,116,Loess underlain by fluvial gravel terraces ,1,Sediment flux from deposits and slope,4,Podocarp and beech forest,3
+Hurst et al. (2012),"Feather River, CA, USA",39.652,-121.312,86,--,1.01,117,Granitoids,3,Best-fit D for 21 sites w/ridgetop Laplacians and cosmogenic-derived erosion rates,2,Mixed conifer forest,4
+Hurst et al. (2013),"Feather River, CA, USA",39.724,-121.285,48,18,1.1,113,Metavolcanics,3,Ridgetop Laplacian and erosion rates,2,Mixed conifer forest,4
+Hurst et al. (2013),"Feather River, CA, USA",39.71,-121.262,88,33,1.15,150,Granodiorite,3,Ridgetop Laplacian and erosion rates,2,Mixed conifer forest,4
+Mattson and Bruhn (2001),"Lake Bonneville, UT, USA",40.489193,-112.3262747,12,3,0.4097,43.7,Alluvial shoreline deposits,1,Scarp modeling,1,Scrubland with some trees,2
+Mattson and Bruhn (2001),"Wasatch Fault Zone, UT, USA",40.723594,-111.8232455,28,11,0.4203,49.1,Alluvial gravels,1,Scarp modeling,1,Scrubland with some trees,2
+McGuire (2014). ,San Francisco Volcanic Field in northern Arizona (SFVF),35.39,-111.57,40,--,0.44,49.3,Basaltic cinder cones,1,Assumed initial shape and age in conjunction with a numerical model,3,"Pinyon pine, sagebrush at lower elevation to Ponderosa pine forests at higher elevation ",3
+McGuire (2014). ,Springerville Volcanic Field in east-central Arizona  (SVF),34.19,-109.57,50,--,0.5,56.4,Basaltic cinder cones,1,Assumed initial shape and age in conjunction with a numerical model,3,"Ponderosa pine, Gambel oak, alligator bark juniper, Douglas fir, pinyon pine, sagebrush and juniper in lower elevations",3
+McGuire (2014).  ,Medicine Lake Volcanic Field in northeastern California (MLVF),41.64,-121.74,75,--,0.44,45.2,Basaltic and basaltic/andesitic cones,1,Assumed initial shape and age in conjunction with a numerical model,3,"Lodgepole pine, ponderosa, Jeffrey pine, sugar pine, western white pine. Red and white fir at higher elevations. Western juniper at lower elevations",3
+McKean et al. (1993),"East Bay Regional Park, CA, USA",37.974,-121.865,360,55,0.34,43.1,Marine shale,2,Qs and slope,4,Grasslands,2
+Nash (1980a),"Emmet County, MI, USA",45.575,-85.113,120,--,0.94,77.9,Cohesionless sand and gravel moraine deposits,1,Scarp modeling,1,"Native hardwoods with scattered white pine and hemlocks, pine, oak, and beech",4
+Nash (1980b),"Drum Mtns., UT, USA",39.65,-112.136,4,--,0.26,32.6,Alluvial gravels,1,Scarp modeling,1,Low shrubs such as sagebrush and shadscale,2
+Nash (1984),"Hebgen Lake, MT, USA",44.701,-111.204,20,2.4,0.72,62.2,Sand and gravel,1,Scarp modeling,1,Prairie grasses and some pine trees,3
+Niviere and Marquis (2000),"Upper Rhine Graben, Germany",47.637,7.516,14,--,0.88,73,Fluvial gravels and coarse sands,1,Estimate from both scarp modeling and from estimating sediment volume at the toe of a man-made scarp.,1,Forested,4
+Pelletier and Cline (2007),"Lathrop Wells, NV, USA",36.69,-116.51,39,--,0.07,10.9,Loose vesicular scoria lapilli,1,Numerical modeling using initial and current shape. Age of cone is 77 ka from radiometric dating,3,Mostly unvegetated,1
+Pelletier et al. (2006),"Lake Bonneville, UT, USA",39.4,-113.7,10,--,0.2,25,Alluvial shoreline scarps (mostly sand and/or gravels),1,"Compared midpoint-slope-inverse method, slope-offset method, and full-scarp method ",1,Grasses and shrubs,2
+Pelletier et al. (2011),"Banco Bonito lava flow, Valles Caldera, NM, USA",36.84,-106.59,4,--,0.44,48.2,Rhyolite,3,"Measured soil thickness and known age of lava flow to test a nonlinear, numerical LEM and choose the best parameter",3,"Ponderosa pine, gamble  oak scrublands, and mixed conifer forest",3
+Perron et al. (2012),"Allegheny Plateau, PA, USA",39.971,-80.261,100,--,0.98,105,Sandstone,2,Ridgetop Laplacian and erosion rate,2,Deciduous forest,4
+Perron et al. (2012),"Gabilan Mesa, CA, USA",35.923,-120.826,124,19,0.18,28.4,Poorly consolidated conglomerate,2,Ridgetop Laplacian and erosion rate,2,Grasses and oaks,3
+Pierce and Colman (1986),"Big Lost River Valley, ID, USA",43.809,-113.336,21,--,0.28,28.3,Carbonate gravels and sands,1,Scarp modeling of analytical solution with error function,1,South-facing slopes are shrub desert and the north-facing slopes are prairie grassland ,2
+Reneau (1988) reported in Heimsath et al. (2005),"Tennessee Valley, CA, USA",37.863,-122.55,50,--,0.94,94.2,"Intensely sheared thrust sheets of greenstone, greywacke sandstone and chert (Franciscan assemblage)",2,Colluvial infilling of landslide deposits,4,Coastal grassland and scrub,2
+Reneau (1988) reported in Heimsath et al. (2005),"Point Reyes, CA, USA",38.047,-122.852,30,--,0.93,99.1,Quartz diorite and granodiorite,3,Colluvial infilling of landslide deposits,4,Bishop pine forest,4
+Reneau et al. (1989),"Clearwater River, WA, USA",47.66,-124,47,--,4.2,311,"Silts, sandstones and conglomerates",2,"Qs estimates from dating hollow deposits (~10,000 yr timescale) and slope.",4,Western hemlock and Pacific silver fir forest,5
+Riggins et al. (2011),"Bodmin Moor, Cornwall, UK",50.508,-4.439,394,163,1.96,114,Granite,3,Ridgetop Laplacian and soil production rate,2,"Grasses, (previously hazel, and oak woodland)",4
+Roering et al. (1999),"Sullivan Creek, OR, USA",43.463,-124.119,36,16,2,168,Turbidite beds (Tyee Formation),2,Minimized error between modeled erosion rates and measured erosion rates for non-linear erosion equation. ,3,Douglas fir and mixed conifer forest,4
+Roering et al. (2002),"Charwell River, South Island, New Zealand",-42.45,173.357,120,80,1.42,116,5m thick loess cap on top of fluvial gravel terraces ,1,Curvature and timescale of vegetation-driven creep (9K yr) on slope ,2,Podocarp and beech forest,3
+Roering et al. (2004),"Charwell River, South Island, New Zealand",-42.45,173.357,160,50,1.42,116,Loess underlain by fluvial gravel terraces ,1,Numerical modeling in a similar style to scarp diffusion (but assumes initial loess surface geometry instead),3,Podocarp and beech forest,3
+Rosenbloom and Anderson (1994),"Santa Cruz, CA, USA",36.984,-122.127,100,--,0.72,79.8,Mudstone,2,Numerical model with best-fit D,3,The lower terraces are farmed while the upper terraces are covered with grasslands. The lower terraces have never been forested.,2
+Small et al. (1999),"Wind River Range, WY, USA",43.37,-109.75,176,12,1,60.3,Granite and gneiss,3,Ridgetop Laplacian and erosion rates,2,Mostly unvegetated ,6
+Spelz et al. (2008),"Laguna Salada, Baja California, Mexico",32.075,-115.383,0,0.3,0.04,8.3,Gravel terraces,1,Finite-slope and infinite-slope scarp modeling technique,1,"Mostly unvegetated, but some vegetation near active fans and channel bars.",1
+Tapponiier et al. (1990),"Qilian Shan, China",39.262,99.608,33,17,0.11,11.9,Fanglomerates,1,Scarp modeling,1,Mostly unvegetated,1
+This study,"Great Smokey Mountains, NC, USA",35.622,-83.204,19,1,1.38,154,Quartzite,3,Ridgetop Laplacian and erosion rates,2,Deciduous forest,4
+This study,"San Bernardino Mountains, CA, USA ",34.051,-116.934,176,21,0.59,72.9,Primarily granitic rocks (quartz monzonite and gneiss),3,Ridgetop Laplacian and erosion rates,2,Chaparral and oak,3
+This study,"Wasatch Mountains, UT, USA",40.892,-111.865,83,15,0.45,51.5,Gneiss ,3,Ridgetop Laplacian and erosion rates,2,"Patchy vegetation with trees, sage, and grasses",3
+This study,"San Gabriel Mountains, CA, USA",34.364,-117.992,71,12,0.66,77.1,Primarily granitic and metamorphic rocks.,3,Ridgetop Laplacian and erosion rates,2,"Chaparral, deciduous and conifers",3
+This study,"Tennessee Valley, CA, USA",37.85,-122.55,174,21,0.89,84.4,"Intensely sheared thrust sheets of greenstone, greywacke sandstone and chert (Franciscan assemblage)",2,Ridgetop Laplacian and erosion rates,2,Coastal grassland and scrub,2
+This study,"Oregon Coast Range, OR, USA",44.517,-123.844,167,37,2.55,223,Tyee Sandstone,3,Ridgetop Laplacian and erosion rates,2,Dense coniferous forest,4
+This study,"Blasingame, CA, USA",36.954,-119.631,23,3,0.26,38.7,Tonalite,3,Ridgetop Laplacian and erosion rate,2,Oak grassland,3
+This study,"Atacama Desert, Chile",-24.13,-69.99,1,0.5,0.01,0.7,Granitic,3,Ridgetop Laplacian and erosion rates,2,Desert,1
+This study,"Atacama Desert, Chile",-29.77,-71.08,16,2,0.07,7.8,Granitic,3,Ridgetop Laplacian and erosion rates,2,Desert,1
+Walther et al. (2009),"Blue Mountains, WA, USA",46.148,-117.938,48,7,0.82,74.4,"Basalt bedrock, but blanketed with loess, which controls erosion rate.",2,Slope of line between differential erosion rate (from glass age estimate and peak profile of Mazama ash)  and differential curvature.,2,Coniferous forest,4
+West et al. (2014)f,"Susquehanna Shale Hills Critical Observatory, PA, USA",40.667,-77.903,61,33,0.95,97.6,Shale,2,Meteoric 10Be and slope,4,Deciduous forest on hillslopes and hemlock and pine in valley,4
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,  ,,,,,,,,,
