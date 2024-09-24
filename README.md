@@ -38,8 +38,8 @@ This schedule is <b>highly</b> subject to change based on class interest - I pic
 | 9/02/2024 |  No class - Labor Day|[Account registration](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0902)|
 | 9/09/2024 |Python, `numpy`, and `matplotlib` basics|[Week 2 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0909)|
 | 9/16/2024 |`pandas`, your Excel alternative|[Week 3 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0916)|
-| 9/23/2024* |`pandas` and plotting practice|[Week 4 example and instructions](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0916)|
-| 9/30/2024 |Conditionals and iterating||
+| 9/23/2024* |`pandas` and plotting practice|[Week 4 example and instructions](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0923)|
+| 9/30/2024 |Conditionals and iterating|[Week 5 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0930)|
 | 10/07/2024 |Geospatial data - vector and raster data||
 | 10/14/2024 |Photogrammetry||
 | 10/21/2024 |Statistics and plotting - `scikit-learn` and `seaborn`||
