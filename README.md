@@ -41,7 +41,7 @@ This schedule is <b>highly</b> subject to change based on class interest - I pic
 | 9/23/2024* |`pandas` and plotting practice|[Week 4 example and instructions](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0923)|
 | 9/30/2024 |Conditionals and iterating|[Week 5 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0930)|
 | 10/07/2024 |Geospatial data - vector and raster data|[Week 6 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1007)|
-| 10/14/2024 |Photogrammetry||
+| 10/14/2024 |Photogrammetry|[Week 7 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1014)|
 | 10/21/2024 |Statistics and plotting - `scikit-learn` and `seaborn`||
 | 10/28/2024 |Numerical solutions I - system of equations||
 | 11/04/2024 |Numerical solutions II - forward model||
