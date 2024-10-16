@@ -31,6 +31,8 @@ Let's begin by saying that this class is intended to help you build useful and t
 * 40% of your grade will come from a capstone project in which you generate publication-worthy analyses and figures for a dataset or system close to your heart 
 
 # Class schedule
+10/14/2024 - see changes below!
+
 This schedule is <b>highly</b> subject to change based on class interest - I picked these topics, but if I sense we need more time on something or want to go in a totally different direction, we might! 
 
 | Date   |      Topic      |  Pre-assignment |
@@ -41,13 +43,13 @@ This schedule is <b>highly</b> subject to change based on class interest - I pic
 | 9/23/2024* |`pandas` and plotting practice|[Week 4 example and instructions](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0923)|
 | 9/30/2024 |Conditionals and iterating|[Week 5 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0930)|
 | 10/07/2024 |Geospatial data - vector and raster data|[Week 6 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1007)|
-| 10/14/2024 |Photogrammetry|[Week 7 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1014)|
-| 10/21/2024 |Statistics and plotting - `scikit-learn` and `seaborn`||
-| 10/28/2024 |Numerical solutions I - system of equations||
+| 10/14/2024 |Geospatial data II|[Week 6 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1007)|
+| 10/21/2024 |Photogrammetry|[Week 7 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1014)|
+| 10/28/2024 |Statistics and plotting - `scikit-learn` and `seaborn`||
 | 11/04/2024 |Numerical solutions II - forward model||
-| 11/11/2024 |Image segmentation / classification I||
-| 11/18/2024* |Project work time||
-| 11/25/2024 |Image segmentation / classification II||
+| 11/11/2024 |HPC intro and project work time||
+| 11/18/2024*|Project work time||
+| 11/25/2024 |Image segmentation / classification||
 | 12/02/2024 |Project lightning talks||
 
 (*)Denotes dates where Joanmarie will be out of town - you are encouraged to gather as a class and work through assignments

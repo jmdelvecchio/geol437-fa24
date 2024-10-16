@@ -1,0 +1,16 @@
+The rubric for your capstone project will be in the form of a checklist. You will also provide a <b>self-evaluation</b> when you hand in your final project. You can include your self-assessment as a `.txt` or `.md` file when you turn in your capstone. 
+
+| Category   |      Checklist      |  Point total |
+|:----------:|:-------------|:------:|
+| Geospatial | [ ] One geospatial element/visualization (at minimum, show me a vector or raster dataset with properly labeled axes ) | /2|
+| Statistical / computational | [ ] One computation performed on the data that (1) computes a new value, (2) performs a statistical analysis on existing data, or (3) both | /2|
+| Motivation | Write 3-5 sentences in a Markdown cell introducing the notebook that identifies:<br>[ ] The geologic concept I want to illustrate<br>[ ] The source of the data I am using<br>[ ] The data wrangling, manipulation, and/or visualization tools I will be using| /4|
+| Data preparation | [ ] Provide clear instructions (and any external files) to download/upload/generate the data for the activity<br> [ ] If the data were collected outside of the activity (e.g. ArcMap), give a brief description of how the data were collected<br> [ ] Data types, formats, strings etc. are efficiently and elegantly handled with ample documentation for why and how data cleaning occurs| /4|
+| Data visualization | [ ] Generate plots with clean axis and/or colorbar labels (i.e. "publication ready")<br> [ ] Generate plots that are clear and compelling demonstrations of your science concept<br> [ ] A publication-level  caption is provided for your "take-home" (central) figure in a Markdown cell| /4|
+| Readability | [ ] Clean up extraneous comments and code snippets<br>[ ] Provide text blocks and/or headings that clearly organize the notebooks<br> [ ] Insert useful intermediate outputs if needed, but not excessive <br>[ ] If applicable, create loops and/or functions for repeated operations (<b>D</b>on't <b>R</b>epeat <b>Y</b>ourself)| /4|
+| Portability | [ ] Import all necessary packages (and, if applicable, provide versions for atypical packages and perform either installations with `pip` or provide a `.yml` environment file to build an appropriate conda environment)<br>[ ] Run the final notebook from start to finish without getting any errors <br>[ ] Provide <b>all</b> necessary data and/or include URLs for downloading hosted data <br>[ ] Provide relative filepaths that load and save any inputs and outputs | /4|
+| Self-motivated learning | [ ] Did I go “above and beyond” the functions presented in class activities by using new calculating/data slicing/plotting functions in my activity?| /2 (but up to 4 points for exceptional work)|
+
+If the category is on a scale of 4, <b>excellent</b> work will be given a 4, <b>good</b> work will be given a 3, <b>satisfactory</b> work will be given a 2, and a minimal pass will be given a 1. If the element is absent, it will receive a 0. 
+
+If the category is on a scale of 2, <b>satisfactory</b> completion of the task will be given a 2, <b>unsatisfactory</b> completion of the task will be given a 1, and a <b>missing</b> element will receive a 0. 
