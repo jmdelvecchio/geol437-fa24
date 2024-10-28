@@ -45,8 +45,8 @@ This schedule is <b>highly</b> subject to change based on class interest - I pic
 | 10/07/2024 |Geospatial data - vector and raster data|[Week 6 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1007)|
 | 10/14/2024 |Geospatial data II|[Week 6 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1007)|
 | 10/21/2024 |Photogrammetry|[Week 7 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1014)|
-| 10/28/2024 |Statistics and plotting - `scikit-learn` and `seaborn`||
-| 11/04/2024 |Numerical solutions II - forward model||
+| 10/28/2024 |Statistics and plotting - `scikit-learn` and `seaborn`|[Week 8 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1028)|
+| 11/04/2024 |Numerical solutions - forward model|[Week 9 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1104)|
 | 11/11/2024 |HPC intro and project work time||
 | 11/18/2024*|Project work time||
 | 11/25/2024 |Image segmentation / classification||
