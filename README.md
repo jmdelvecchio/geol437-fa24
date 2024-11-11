@@ -47,7 +47,7 @@ This schedule is <b>highly</b> subject to change based on class interest - I pic
 | 10/21/2024 |Photogrammetry|[Week 7 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1014)|
 | 10/28/2024 |Statistics and plotting - `scikit-learn` and `seaborn`|[Week 8 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1028)|
 | 11/04/2024 |Numerical solutions - forward model|[Week 9 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1104)|
-| 11/11/2024 |HPC intro and project work time||
+| 11/11/2024 |HPC intro and project work time|[Week 10 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1111)|
 | 11/18/2024*|Project work time||
 | 11/25/2024 |Image segmentation / classification||
 | 12/02/2024 |Project lightning talks||
